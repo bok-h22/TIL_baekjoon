@@ -4,7 +4,6 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyMRa67lnwXlzyB0Uceehkvt",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -23,7 +22,6 @@
         "colab_type": "text"
       },
       "source": [
-        "<a href=\"https://colab.research.google.com/github/bok-h22/TIL_baekjoon/blob/heejun/BAEKJOON_LEVEL_2\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
     },
     {
@@ -38,7 +36,6 @@
     },
     {
       "cell_type": "code",
-      "execution_count": null,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -100,7 +97,6 @@
         "id": "6_jxNrFNtYBq",
         "outputId": "01863e28-f7cb-44c0-9508-7db126b1078c"
       },
-      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -145,7 +141,6 @@
         "id": "FVlBThYVuOyQ",
         "outputId": "26cf48bb-3020-4876-8590-8be4a199825a"
       },
-      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -195,7 +190,6 @@
         "id": "Bfa4_KXLv2mC",
         "outputId": "f0d199fa-09fc-402c-e537-45b831216205"
       },
-      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -249,7 +243,6 @@
         "id": "QR6XhEW5zk_X",
         "outputId": "957203a5-7d9f-40f8-e4b3-8b3139ed50bf"
       },
-      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
